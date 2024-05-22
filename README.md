@@ -1,7 +1,5 @@
 # SocialMedia
 
-# SocialMedia
-
 SocialMedia is a Django-based web application that allows users to create, join, and participate in groups based on shared interests. Users can post messages, comment on posts, and interact with other group members.
 
 ## Features
